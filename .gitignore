@@ -1,0 +1,8 @@
+*.json
+*.csv
+coingecko.py
+assembly.py
+tests.py
+*.zip
+index.js
+*.log
